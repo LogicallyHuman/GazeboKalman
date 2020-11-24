@@ -1,0 +1,2 @@
+kalman_demo
+-DCATKIN_DEVEL_PREFIX=/home/bruno/Documents/PID/GazeboKalman/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bruno/Documents/PID/GazeboKalman/catkin_ws/install -G Unix Makefiles

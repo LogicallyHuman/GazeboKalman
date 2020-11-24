@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bruno/Documents/PID/GazeboKalman/catkin_ws/devel/setup.sh

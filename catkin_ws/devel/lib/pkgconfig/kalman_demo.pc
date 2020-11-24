@@ -1,0 +1,8 @@
+prefix=/home/bruno/Documents/PID/GazeboKalman/catkin_ws/devel
+
+Name: kalman_demo
+Description: Description of kalman_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
